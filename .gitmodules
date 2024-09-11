@@ -1,0 +1,3 @@
+[submodule "Channel_Estimation_cGAN"]
+	path = Channel_Estimation_cGAN
+	url = https://github.com/cleversonahum/Channel_Estimation_cGAN
